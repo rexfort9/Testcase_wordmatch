@@ -1,6 +1,6 @@
-Simple word-match script
+Simple pattern-match script
 ====
-This script uses PY to fond factorial of inputed number.
+This script uses PY to locate similar patterns in words.
 ----
 Script was made for test case <br>
 
