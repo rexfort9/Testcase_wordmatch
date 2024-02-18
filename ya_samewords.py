@@ -1,4 +1,3 @@
-
 def find_common_prefix(words):
     if not words:
         return ""
@@ -13,7 +12,7 @@ def find_common_prefix(words):
     
     return prefix
 
-# Массив данных слов
+# Word massive (editable)
 massive = ["apple", "application", "apply", "approve", "applause", "append"]
 prefix = find_common_prefix(massive)
 print(prefix)
